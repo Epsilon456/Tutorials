@@ -1,0 +1,5 @@
+weapon	attack	damage	defense	stamina
+sword	+3	+3	0	-1
+shield	+0	+1	+5	-1
+warhammer	+7	+6	-3	-2
+fist	+1	+2	+0	+5

@@ -1,0 +1,3 @@
+name	health	stamina	attack damage defense
+Gelfing	10	4	10	0	10
+Player	13	3	11	1	11
